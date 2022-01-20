@@ -1,0 +1,26 @@
+{
+  "name": "help-me",
+  "version": "1.0.0",
+  "description": "Estou descobrindo o que tenho que fazer. Paciência.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-ventura/help-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardo-ventura/help-me/issues"
+  },
+  "homepage": "https://github.com/ricardo-ventura/help-me#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.7",
+    "express": "^4.17.2"
+  }
+}
